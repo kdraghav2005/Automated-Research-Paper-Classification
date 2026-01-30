@@ -41,6 +41,6 @@ Each notebook contains detailed steps for model training, fine-tuning, and infer
 We welcome contributions from the community to make this project more robust and versatile. For queries or contributions, please contact:
 
 -Krishna Mahalka
--Rahul Jat
+-Raghav Kapoor
 - Email: [krishnamahalka3@gmail.com](krishnamahalka3@gmail.com)
-- Email: [rahuljat13290@gmail.com](rahuljat13290@gmail.com)
+- Email: [k.raghav@iitg.ac.in](k.raghav@iitg.ac.in)
